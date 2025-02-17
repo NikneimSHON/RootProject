@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiffGenerationConfig">
+    <option name="snapshotDbValue" value="de752097-c45e-4b47-af53-4ae2daab76aa" />
+    <option name="snapshotDirValue" value="$PROJECT_DIR$/service/src/main/resources" />
+    <option name="sourceModelValue" value="service:hibernate.cfg.xml" />
+  </component>
+</project>
